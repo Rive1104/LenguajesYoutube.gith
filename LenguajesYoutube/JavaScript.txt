@@ -1,0 +1,16 @@
+<section style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 20px; background-color:white; width:800px; height:450px; float:right;">
+
+            <center><p>Función de JavaScript en YouTube.</p></center>
+
+            <article style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 15px; color: blue;">
+                <p>1.- Interactividad: JavaScript permite que los usuarios interactúen con la interfaz de manera dinámica, como reproducir, pausar y cambiar el volumen de los videos sin necesidad de recargar la página.</p>
+                <p>2.- Carga asíncrona: Utiliza AJAX para cargar contenido adicional (como comentarios y sugerencias) sin interrumpir la experiencia del usuario.</p>
+                <p>3.- Recomendaciones personalizadas: A través de algoritmos que se ejecutan en el lado del cliente, JavaScript ayuda a mostrar videos sugeridos basados en el historial de visualización.</p>
+                <p>4.- Control de reproductores: El reproductor de video de YouTube está construido en gran parte con JavaScript, lo que permite funciones avanzadas como la búsqueda en el video y la integración con listas de reproducción.</p>
+                <p>5.- Estadísticas y análisis: JavaScript recopila datos sobre la interacción del usuario, lo que ayuda a YouTube a mejorar su servicio y personalizar la experiencia.</p>
+                <img src="png-clipart-computer-icons-linkedin-desktop-pause-button-miscellaneous-logo.png" width="150px" height="100px"></a>
+                <img src="play-pause-button-transparent-14.png" width="150px" height="100px"></a>
+                <img src="565296.png" width="150px" height="100px"></a>
+            </article>
+
+        </section>

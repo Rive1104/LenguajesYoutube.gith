@@ -1,0 +1,20 @@
+<section
+            style="font-family: Arial, Helvetica, sans-serif; font-size: 20px; background-color:white; width:800px; height:450px; float:right;">
+
+            <center>
+                <p>Youtube es una plataforma de vídeos en la cuál se puede subir y compartir todo tipo de cntenido y con
+                    cualquier fin, es la red social de alojamiento de videos más grandes hoy en día, incluso con el
+                    pasar de los años.
+                    Al ser una red social tan mundialmente usada es de notar que cuenta con una interfaz muy intuitiva,
+                    bonita, presentable y muy funcional. En ésta página indagaremos en 3 de sus varios lenguajes de
+                    programación utilizados para mantener en pie y forma la plataforma de videos más grande hoy en día.
+                    Hoy hablaremos de la importancia de Java/JavaScrpt, Python y HTML/CSS.</p>
+            </center>
+
+            <article style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 25px; color: blue;">
+                <img src="thread-187090760-6142090546706208173.png" width="400px" height="250px">
+                <img src="Captura.PNG" width="350px" height="250px">
+
+            </article>
+
+        </section>
